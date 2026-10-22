@@ -1,5 +1,6 @@
-
 {
-  "name": "مطب دندانپزشکی دکتر آرزو ساریخانی",
-  "description": "یک صفحه وب مدرن و کاملا واکنش‌گرا برای معرفی خدمات و رزرو نوبت در مطب دندانپزشکی دکتر آرزو ساریخانی. این صفحه شامل انیمیشن‌های اسکرول، منوی موبایل و فرم تماس تعاملی است."
+  "name": "Dr. Arezoo Sarikhani Dental Clinic",
+  "description": "Modern scrolling website for Dr. Arezoo Sarikhani Dental Clinic featuring smooth parallax effects, white and light blue design, multilingual support (Farsi, English, Arabic), interactive appointment booking, fast search navigation, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
